@@ -8,10 +8,10 @@
 
 import UIKit
 
-/// This class serves as an example of a slightly more complicated setup,
-/// where we have a view model, but still the view controller plays the navigator
-/// role, which makes it is responsible for performing and preparing for segues.
-
+// This class serves as an example of a slightly more complicated setup,
+// where we have a view model, but still the view controller plays the navigator
+// role, which makes it is responsible for performing and preparing for segues.
+//
 class UsersViewController: UITableViewController, UsersView, Navigating {
     
     // MARK: - Public properties

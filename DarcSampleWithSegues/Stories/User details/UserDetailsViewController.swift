@@ -8,6 +8,12 @@
 
 import UIKit
 
+// Finally, this view controller features all the possible components in
+// this architecture: it has a view model and a fully separate navigator.
+// Communication between the view controller and the navigator is not
+// automated in any way. This is done on purpose to show how the interaction
+// is actually happening.
+//
 class UserDetailsViewController: UITableViewController, UserDetailsView {
 
     // MARK: - Public properties

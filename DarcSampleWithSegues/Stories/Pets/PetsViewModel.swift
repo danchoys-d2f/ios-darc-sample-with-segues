@@ -7,7 +7,7 @@
 //
 
 // This view model does not have a navigator since we cannot
-// navigate anywhere from this screen, but it interesting though
+// navigate anywhere from this screen, but it is interesting though
 // as it controls the view's state using an enumeration and sends
 // a pet selection event through delegation. Here we are using the
 // delegation pattern, but of course in more complex environments

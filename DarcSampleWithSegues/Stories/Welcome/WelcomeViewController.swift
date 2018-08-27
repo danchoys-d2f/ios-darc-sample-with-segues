@@ -15,7 +15,7 @@ import UIKit
 
 // This view controller is rather small, so it has no need for a view model,
 // navigator or anything. It's a good-old MVC view controller, yet not massive.
-
+//
 class WelcomeViewController: UIViewController {
 
     // MARK: - Public properties
